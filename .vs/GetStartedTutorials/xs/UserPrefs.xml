@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{7C9A8527-B56A-4DF5-B6DF-2BB80640714A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GetStartedTutorials/Program.cs">
+    <Files>
+      <File FileName="GetStartedTutorials/Program.cs" Line="158" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GetStartedTutorials" expanded="True" selected="True">
+            <Node name="GetStartedTutorials" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GetStartedTutorials PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

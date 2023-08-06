@@ -1,0 +1,15 @@
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/bin/Debug/net7.0/GetStartedTutorials
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/bin/Debug/net7.0/GetStartedTutorials.deps.json
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/bin/Debug/net7.0/GetStartedTutorials.runtimeconfig.json
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/bin/Debug/net7.0/GetStartedTutorials.dll
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/bin/Debug/net7.0/GetStartedTutorials.pdb
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/GetStartedTutorials.csproj.AssemblyReference.cache
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/GetStartedTutorials.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/GetStartedTutorials.AssemblyInfoInputs.cache
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/GetStartedTutorials.AssemblyInfo.cs
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/GetStartedTutorials.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/GetStartedTutorials.dll
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/refint/GetStartedTutorials.dll
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/GetStartedTutorials.pdb
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/GetStartedTutorials.genruntimeconfig.cache
+/Users/admin/Desktop/DESK/Studying/C#/GetStartedTutorials/GetStartedTutorials/obj/Debug/net7.0/ref/GetStartedTutorials.dll
